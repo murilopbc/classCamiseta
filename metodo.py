@@ -1,4 +1,4 @@
-from ex01 import Camiseta
+from main import Camiseta
 
 
 marca = input("Digite a marca da sua camiseta: ")
